@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-30T15:16:06Z" name="Default suite" finished-at="2022-11-30T15:17:51Z" duration-ms="104316">
+    <groups>
+    </groups>
+    <test started-at="2022-11-30T15:16:06Z" name="Default test" finished-at="2022-11-30T15:17:51Z" duration-ms="104316">
+      <class name="testng1.testcases">
+        <test-method is-config="true" signature="BT()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:46:06Z" name="BT" finished-at="2022-11-30T20:46:29Z" duration-ms="23018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="test1()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:46:29Z" name="test1" finished-at="2022-11-30T20:46:34Z" duration-ms="4230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:46:34Z" name="test2" finished-at="2022-11-30T20:46:37Z" duration-ms="3694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:46:37Z" name="test3" finished-at="2022-11-30T20:46:48Z" duration-ms="10302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:46:48Z" name="test4" finished-at="2022-11-30T20:47:09Z" duration-ms="21737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:47:09Z" name="test5" finished-at="2022-11-30T20:47:20Z" duration-ms="10252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:47:20Z" name="test6" finished-at="2022-11-30T20:47:25Z" duration-ms="5611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:47:25Z" name="test7" finished-at="2022-11-30T20:47:29Z" duration-ms="4189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:47:29Z" name="test8" finished-at="2022-11-30T20:47:38Z" duration-ms="8600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method signature="test9()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:47:38Z" name="test9" finished-at="2022-11-30T20:47:48Z" duration-ms="10326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:testng1.testcases@7a220c9a]" started-at="2022-11-30T20:47:48Z" name="aftertest" finished-at="2022-11-30T20:47:51Z" duration-ms="2292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- testng1.testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
